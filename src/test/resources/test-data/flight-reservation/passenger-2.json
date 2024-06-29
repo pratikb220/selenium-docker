@@ -1,0 +1,11 @@
+{
+  "firstName" : "Pratik",
+  "lastName" : "Bhusari",
+  "email" : "pratik@gmail.com",
+  "password" : "pratik123",
+  "street" : "Buldhana",
+  "city" : "Buldhana",
+  "zip" : "560103",
+  "passengersCount" : "2",
+  "expectedPrice" : "$1169 USD"
+}
